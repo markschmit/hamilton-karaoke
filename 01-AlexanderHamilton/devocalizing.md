@@ -1,12 +1,24 @@
+# How to devocalize Alexander Hamilton
 
-# How to devocalize
+This is the current recommended way to devocalize the song Alexander Hamilton.  If a method that produces better results is discovered, this file should be updated accordingly.
+
+If instrumental tracks are ever released this file can be eliminated.
 
 
+## Current Best Approach
+
+### Process
 1. Open WAV in Audacity
-2. Apply to Effects, Remove Vocals
-3. Export the reduced version.
+2. Menu: Effects -> Remove Vocals (default: simple, 500, 2000)
+3. Export the audio
 
 
-Results: Main male vocals reduced.  Chorus is strong (which is fine), Washington and women are strong as well (this is less good).
+### Results:
+- Main male vocals reduced.
+- Chorus is strong (good)
+- Problem: Eliza, Washington other women are approximately full volume.
 
-TODO: Figure out a better approach for removing vocals from this song.
+
+## Alternatives
+
+This section describes other approaches that are not *strictly* better but might be preferable to some.
