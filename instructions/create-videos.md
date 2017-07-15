@@ -11,7 +11,7 @@ These steps require some additional software beyond Karaoke Builder Studio.
 
 **[HuffYUV 2.11 Codec](https://www.videohelp.com/software/HuffYUV)** - This is a lossless video codec that allows fast output from KBS that's slightly smaller than uncompressed video.
 
-**[x264vfw Codex](https://sourceforge.net/projects/x264vfw/)** - This is a video codec for producing compressed video that takes up much less space (but takes longer to generate).
+**[x264vfw Codec](https://sourceforge.net/projects/x264vfw/)** - This is a video codec for producing compressed video that takes up much less space (but takes longer to generate).
 
 
 ## Creating a video from KBS
