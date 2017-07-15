@@ -16,9 +16,9 @@ HEADERV2
 '  Font  : Name,Size,Style,Charset
 '  Other : Outline*4,Shadow*2,Wiping,Uppercase
 
-  Style00,Default,1,2,4,2
+  Style00,Chorus,1,2,4,2
     Arial,12,B,0
-    1,1,1,1,0,0,2,L
+    2,2,2,2,0,0,0,L
 
   Style01,Hamilton,5,2,6,2
     Arial,12,B,0
@@ -61,6 +61,14 @@ HEADERV2
     2,2,2,2,0,0,0,L
 
   Style11,Schuyler Sisters,11,2,12,2
+    Arial,12,B,0
+    2,2,2,2,0,0,0,L
+
+  Style12,Chorus (Men),1,9,14,13
+    Arial,12,B,0
+    2,2,2,2,0,0,0,L
+
+  Style13,Chorus (Women),1,11,14,12
     Arial,12,B,0
     2,2,2,2,0,0,0,L
 
