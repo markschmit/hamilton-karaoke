@@ -3,13 +3,13 @@
 1. Create a lyrics/ subdirectory in the given song directory.
 2. Copy lyrics from appropriate Genius.com page into a 'genius.txt' file
 3. Do page layout: open the lyrics in KBS and start dividing into pages.  Save as 'paginated.txt'.
-  - Put parallel verses on the same pages. 
-  - Don't include chorus lines that simply back up a primary singer. 
-  - Include only chrous lines that are at least partially broadly sung (e.g. you'd sing it when singing the song in the shower)
-  - Don't include character cues after the first unless the color alone will be insufficient (e.g. distinguishing COMPANY from MALE ENSEMBLE while reusing color or an occasional joint-cue).  This requires thinking about how many colors will be necessary for the song.
+   - Put parallel verses on the same pages. 
+   - Don't include chorus lines that simply back up a primary singer. 
+   - Include only chrous lines that are at least partially broadly sung (e.g. you'd sing it when singing the song in the shower)
+   - Don't include character cues after the first unless the color alone will be insufficient (e.g. distinguishing COMPANY from MALE ENSEMBLE while reusing color or an occasional joint-cue).  This requires thinking about how many colors will be necessary for the song.
 
 4. Syllabalize the text, putting slashes between syllables in words:
-  - http://juiciobrennan.com/syllables/ might be helpful, but you need to replace hyphens with slashes, remove slashes from character cues, and fix the words that aren't found (e.g. contracted forms like "drippin'").  Save as 'syllables.txt'.
+   - http://juiciobrennan.com/syllables/ might be helpful, but you need to replace hyphens with slashes, remove slashes from character cues, and fix the words that aren't found (e.g. contracted forms like "drippin'").  Save as 'syllables.txt'.
 
 5. Create a 'sync' version that has no parallel vocals and no character cues but maintains the page separations.  This is the version that we'll use to do the initial syncing, after which we'll restore the other lyrics.  Save as 'sync.txt'.
 
